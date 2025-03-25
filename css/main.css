@@ -146,7 +146,7 @@ ul {
     opacity: 0;
   }
   100% {
-    transform: translateY(1px) scaleY(1);
+    transform: translateY(-100px) scaleY(1);
     opacity: 1;
   }
 }
